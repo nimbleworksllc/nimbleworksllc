@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Node build artifacts
 node_modules
 npm-debug.log
@@ -9,9 +8,5 @@ npm-debug.log
 .DS_Store
 
 # Docker
-=======
-node_modules
-.env
->>>>>>> 761bb0c8d93f20b9fa43b49567056a6c2bc8fc27
 Dockerfile
 docker-compose.yml
