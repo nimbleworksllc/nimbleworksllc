@@ -106,7 +106,7 @@ ul.nav li.active a              { color: #fb3d00; }
 .logo-small-ie 									{ background: url("/img/logo.png") no-repeat; width: 42px; height: 40px; display: block; margin: 20px 0 0 40px; float: left; }
 .logo-make-ie 									{ background: url("/img/logo.png") no-repeat; width: 96px; height: 41px; display: block; margin: 20px 0 0 1px; float: left; }
 
-.logo-small 										{ background: url("/img/logo.png") no-repeat; background-size: cover; width: 196px; height: 41px; display: block; margin: 20px 0 0 40px; float: left; }
+.logo-small 										{ background: url("/img/logo.png") no-repeat; background-size: cover; width: 250px; height: 46px; display: block; margin: 10px 0 0 40px; float: left; }
 .logo-make 										  { background: url("/img/logo1.png") no-repeat; background-size: cover; width: 196px; height: 41px; display: block; margin: 20px 0 0 1px; float: left; }
 
 .light-header										{ font-weight: 200 !important; }
