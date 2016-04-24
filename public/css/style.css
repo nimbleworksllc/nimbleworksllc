@@ -101,7 +101,7 @@ ul.nav li.active a              { color: #fb3d00; }
 
 .logo														{ width: 136px; height: 40px; background: url("img/logo.png") no-repeat; background-size: cover; display: block; margin: 20px 0 0 40px; }
 
-.logo-mobile										{ width: 137px; height: 40px; background: url("/img/logo.png") no-repeat; background-size: cover; display: block; margin: 13px 0 15px 10px; float: left; }
+.logo-mobile										{ width: 170px; height: 40px; background: url("/img/logo.png") no-repeat; background-size: cover; display: block; margin: 13px 0 15px 10px; float: left; }
 
 .logo-small-ie 									{ background: url("/img/logo.png") no-repeat; width: 42px; height: 40px; display: block; margin: 20px 0 0 40px; float: left; }
 .logo-make-ie 									{ background: url("/img/logo.png") no-repeat; width: 96px; height: 41px; display: block; margin: 20px 0 0 1px; float: left; }
