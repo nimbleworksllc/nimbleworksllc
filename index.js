@@ -13,11 +13,14 @@ app.get('/', function(request, response) {
   response.render('pages/index');
 });
 
+<<<<<<< HEAD
 // about page 
 app.get('/about', function(request, response) {
   response.render('pages/about');
 });
 
+=======
+>>>>>>> 761bb0c8d93f20b9fa43b49567056a6c2bc8fc27
 app.listen(app.get('port'), function() {
   console.log('Node app is running on port', app.get('port'));
 });
